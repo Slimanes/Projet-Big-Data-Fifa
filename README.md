@@ -36,4 +36,6 @@ Des Statistiques personnelles des joueurs sont aussi dsiponibles comme par exemp
 	</ul>
 		
 </br>
-<b>NB : J'ai effectué tout mon travail depuis Kaggle</b>
+<b> NB : Ce notebook doit être executé en allant sur le lien suivant :</b>
+https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset/kernels
+
