@@ -8,12 +8,12 @@ Sujet : FIFA 20 complete player dataset
 
 Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset/kernels
 
-4 dataset de données :
-			- players_17 => Statistiques générales des joueurs de Fifa 17
-			- players_18 => Statistiques générales des joueurs de Fifa 18 
-			- players_19 => Statistiques générales des joueurs de Fifa 19
-			- players_20 => Statistiques générales des joueurs de Fifa 20
-
+<ul> 4 dataset de données :<ul>
+			<li>- players_17 => Statistiques générales des joueurs de Fifa 17</li>
+			<li>- players_18 => Statistiques générales des joueurs de Fifa 18</li> 
+			<li>- players_19 => Statistiques générales des joueurs de Fifa 19</li>
+			<li>- players_20 => Statistiques générales des joueurs de Fifa 20</li>
+</ul>
 Contenu des datasets
 
     - Tous les joueurs de FIFA, 17, 18, 19 et même FIFA 20
