@@ -8,7 +8,7 @@ Sujet : FIFA 20 complete player dataset
 
 Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset/kernels
 
-<h2> 4 dataset de données </h2>
+<h3> 4 dataset de données </h3>
 	<ul>
 		<li> players_17 => Statistiques générales des joueurs de Fifa 17</li>
 		<li> players_18 => Statistiques générales des joueurs de Fifa 18</li> 
@@ -16,7 +16,7 @@ Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-co
 		<li> players_20 => Statistiques générales des joueurs de Fifa 20</li>
 	</ul>
 	
-<h2> Contenu des datasets </h2>
+<h3> Contenu des datasets </h3>
 
     - Tous les joueurs de FIFA, 17, 18, 19 et même FIFA 20
     - 100 colonnes décrivant les aptitudes techniques des joueurs
@@ -24,7 +24,7 @@ Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-co
     	- Statistiques techniques des joueurs en Attaque, Dribble, Défense, Mental etc.
     	- Statistiques personnelles des joueurs comme la nationalité, le salaire, l'age, le poids etc.
 
-<h2> Objectifs <h2>
+<h3> Objectifs <h3>
 	<ul>
 			      <li>  Explorer les dataset </li>
 			      <li>  Tri et Filtre sur des attributs </li>
