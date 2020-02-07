@@ -8,7 +8,7 @@ Projet Technique Big Data
 
 Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset/kernels
 
-<h3> 4 dataset de données </h3>
+<h3> 4 datasets de données </h3>
 	<ul>
 		<li> players_17 => Statistiques générales des joueurs de Fifa 17</li>
 		<li> players_18 => Statistiques générales des joueurs de Fifa 18</li> 
@@ -34,5 +34,5 @@ Des Statistiques personnelles des joueurs sont aussi dsiponibles comme par exemp
 			      <li>  Tracer des nuages de points, histogrammes, diagramme circulaire,
 		matrice de corrélation et  boites à moustaches afin de voir l'évolution de certains attributs comme la nationalité, le poids, la taille, les dribbles, le salaire, le potentiel,la finition, le pied fort (droitier ou gaucher),la note globale du joueur dans le jeu.		      
 		
-<br>
+</br>
 NB : J'ai effectué tout mon travail depuis Kaggle 
