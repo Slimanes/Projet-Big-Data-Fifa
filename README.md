@@ -17,15 +17,14 @@ Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-co
 	</ul>
 	
 <h3> Contenu des datasets </h3>
-	<ol>
-	
-    		<li> Tous les joueurs de FIFA, 17, 18, 19 et même FIFA 20 </li>
-    		<li> 100 colonnes décrivant les aptitudes techniques des joueurs</li>
-    		<li> Positions des joueurs, poste dans le club et l'équipe nationale</li>
-    		<li> Statistiques techniques des joueurs en Attaque, Dribble, Défense, Mental etc.</li>
-    		<li> Statistiques personnelles des joueurs comme la nationalité, le salaire, l'age, le poids etc.</li>
-	</ol>	
 
+<p>Tous les joueurs de FIFA, 17, 18, 19 et même FIFA 20</p>
+<p>100 colonnes décrivant les aptitudes techniques des joueurs</p>
+<p>Positions des joueurs, poste dans le club et l'équipe nationale</p>
+<p>Statistiques techniques des joueurs en Attaque, Dribble, Défense, Mental etc</p>
+<p>Statistiques personnelles des joueurs comme la nationalité, le salaire, l'age, le poids etc.</p>
+
+	
 <h3> Objectifs </h3>
 	<ul>
 			      <li>  Explorer les dataset </li>
@@ -36,7 +35,7 @@ Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-co
 			      <li>  Top 10 des meilleurs joueurs Fifa</li>
 			      <li>  Tracer des nuages de points, histogrammes, diagramme circulaire, matrice de corrélation et  boites à moustaches afin de voir l'évolution de certains attributs </li>
 	</ul>
-	<ol>
+	<ul>
 		<li> nationalité des joueurs </ul>
 		<li> le poids</li>
 		<li> la taille</li>
@@ -46,7 +45,7 @@ Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-co
 		<li> la finition des joueur</li>
 		<li> le pied fort (droitier ou gaucher)</li>
 		<li> la note globale du joueur dans le jeu etc.</li>
-	</ol>	
+	</ul>	
 		
 <br>
 NB : J'ai effectué tout mon travail depuis Kaggle 
