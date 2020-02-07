@@ -34,8 +34,16 @@ Des Statistiques personnelles des joueurs sont aussi dsiponibles comme par exemp
 			      <li>  Tracer des nuages de points, histogrammes, diagramme circulaire,
 		matrice de corrélation et  boites à moustaches afin de voir l'évolution de certains attributs 
 				      <ul>
-					      <li>dwbt</li>
-					      <li>ikjhgf</li>
+					      <li>nationalité des joueurs </li>
+					      <li>le poids</li>
+					      <li>la taille</li>
+					      <li>les dribbles</li>
+					      <li>le salaire</li>
+					      <li>le potentiel</li>
+					      <li>la finition des joueur</li>
+					      <li>le pied fort (droitier ou gaucher)</li>
+					      <li>la note globale du joueur dans le jeu etc. </li>
+					      
 				      </ul>
 			      </li>
 	</ul>
