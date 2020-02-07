@@ -19,7 +19,7 @@ Lien des données sur Kaggle : https://www.kaggle.com/stefanoleone992/fifa-20-co
 <h3> Contenu des datasets </h3>
 
 <p>On retrouve tous les joueurs de FIFA, 17, 18, 19 et même de FIFA 20. Il y a 100 colonnes décrivant les aptitudes techniques des joueurs. On dispose aussi des positions des joueurs, des postes dans le club et en équipe nationale etc.
-Il y aussi aussi des statistiques techniques des joueurs telles que Attaque, Dribble, Défense, Mental.
+Il y aussi aussi des statistiques techniques telles que Attaque, Dribble, Défense, Mental.
 Des Statistiques personnelles des joueurs sont aussi dsiponibles comme par exemple la nationalité, le salaire, l'age, le poids etc.</p>
 
 	
@@ -29,7 +29,7 @@ Des Statistiques personnelles des joueurs sont aussi dsiponibles comme par exemp
 			      <li>  Tri et Filtre sur des attributs </li>
 			      <li>  Visualiser l'évolution de joueurs ex : Messi, Ronaldo, Salah</li>
 			      <li>  Analyser la corrélation entre certains attributs</li>
-			      <li>  Décler les valeurs aberrantes</li>
+			      <li>  Déceler les valeurs aberrantes</li>
 			      <li>  Top 10 des meilleurs joueurs Fifa</li>
 			      <li>  Tracer des nuages de points, histogrammes, diagramme circulaire,
 		matrice de corrélation et  boites à moustaches afin de voir l'évolution de certains attributs comme la nationalité, le poids, la taille, les dribbles, le salaire, le potentiel,la finition, le pied fort (droitier ou gaucher),la note globale du joueur dans le jeu.
