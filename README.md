@@ -32,7 +32,8 @@ Des Statistiques personnelles des joueurs sont aussi dsiponibles comme par exemp
 			      <li>  Décler les valeurs aberrantes</li>
 			      <li>  Top 10 des meilleurs joueurs Fifa</li>
 			      <li>  Tracer des nuages de points, histogrammes, diagramme circulaire,
-		matrice de corrélation et  boites à moustaches afin de voir l'évolution de certains attributs comme la nationalité, le poids, la taille, les dribbles, le salaire, le potentiel,la finition, le pied fort (droitier ou gaucher),la note globale du joueur dans le jeu.		      
+		matrice de corrélation et  boites à moustaches afin de voir l'évolution de certains attributs comme la nationalité, le poids, la taille, les dribbles, le salaire, le potentiel,la finition, le pied fort (droitier ou gaucher),la note globale du joueur dans le jeu.
+	</ul>
 		
 </br>
 NB : J'ai effectué tout mon travail depuis Kaggle 
