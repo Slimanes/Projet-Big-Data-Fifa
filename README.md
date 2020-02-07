@@ -36,4 +36,4 @@ Des Statistiques personnelles des joueurs sont aussi dsiponibles comme par exemp
 	</ul>
 		
 </br>
-NB : J'ai effectué tout mon travail depuis Kaggle 
+<b>NB : J'ai effectué tout mon travail depuis Kaggle</b>
